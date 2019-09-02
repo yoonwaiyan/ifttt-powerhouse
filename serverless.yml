@@ -1,4 +1,4 @@
-service: ios-photos-s3
+service: ifttt-powerhouse
 
 package:
   individually: true
