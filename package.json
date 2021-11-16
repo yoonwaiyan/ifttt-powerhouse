@@ -6,7 +6,7 @@
   "author": "Yoon Wai Yan <waiyanyoon@gmail.com>",
   "license": "MIT",
   "dependencies": {
-    "aws-sdk": "^2.517.0",
+    "aws-sdk": "^2.814.0",
     "request": "^2.88.0",
     "request-promise-native": "^1.0.7",
     "serverless-bundle": "^1.2.3",
